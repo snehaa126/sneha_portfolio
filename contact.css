@@ -1,0 +1,16 @@
+.contact {
+  padding: 50px;
+  background-color: #111;
+  color: #faa8a8;
+  text-align: center;
+}
+
+.contact-links a {
+  color: #faa8a8;
+  margin: 0 10px;
+  transition: color 0.3s;
+}
+
+.contact-links a:hover {
+  color: #ff8f8f;
+}

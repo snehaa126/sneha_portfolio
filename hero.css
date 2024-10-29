@@ -1,0 +1,23 @@
+.hero {
+    background-image: url('../assets/hero-bg.jpg'); /* Update the path */
+    height: 100vh; /* Example height */
+    background-size: cover;
+    background-position: center;
+    /* Other styles... */
+}
+.hero-content {
+  text-align: center;
+}
+
+.scroll-down {
+  color: black;
+  background-color: #faa8a8;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.scroll-down:hover {
+  background-color: #ff8f8f;
+}
